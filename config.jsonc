@@ -1,0 +1,31 @@
+{
+    "logo": {
+		"type": "kitty",
+		"source": "/home/ranch/.config/fastfetch/kite_pastel_alpha.png",
+		// "animationFrame" : 0,
+        "width": 35,
+        "height": 15,
+        "padding": {
+            "left": 1,
+            "right": 1
+        }
+    },
+
+    "modules": [
+        "title",
+        "separator",
+        "os",
+        "host",
+        "kernel",
+        "uptime",
+        "packages",
+        "shell",
+        "display",
+        "de",
+        "wm",
+        "terminal",
+        "cpu",
+        "gpu",
+		"memory"
+    ]
+}
