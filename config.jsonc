@@ -7,7 +7,7 @@
         "height": 15,
         "padding": {
             "left": 1,
-            "right": 1
+            "right": 2
         }
     },
 
@@ -18,9 +18,7 @@
         "host",
         "kernel",
         "uptime",
-        "packages",
         "shell",
-        "display",
         "de",
         "wm",
         "terminal",
